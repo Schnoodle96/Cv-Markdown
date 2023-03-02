@@ -2,7 +2,10 @@
 
 Ejercico de la primera semana del **Bootcamp** de ***Guillermo Rodas***.
 
-## Luis Eduardo Dávila Hernández
+## Luis Eduardo Dávila Hernández.
+- 📧 smluisedavila@gmail.com
+- ☎ 3127428625
+
 Ingeniero de sistemas enfocado en el desarrollo de software. Me considero una persona responsable,  con facilidad de adaptación, capacidad de trabajar en equipo, con iniciativa para resolver problemas eficientemente y lograr las metas y los  planteados.
  
  ### Comandos Terminal.
