@@ -28,7 +28,7 @@ Ingeniero de sistemas enfocado en el desarrollo de software. Me considero una pe
 | Comandos Alias | Definición |
 |----------------|------------|
 | -mkdir | Para facilitar la creación de directorios.  | 
-| -time | Crear un directorio y acceder directamente al directorio creado.  | 
+| - mkdircd | Crear un directorio y acceder directamente al directorio creado.  | 
 
 
 
