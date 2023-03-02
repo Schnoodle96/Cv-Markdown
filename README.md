@@ -1,14 +1,18 @@
-# Cv-Markdown
+> Cv-Markdown.
+> Ejercico de la primera semana del **Bootcamp** de ***Guillermo Rodas***.
 
-Ejercico de la primera semana del **Bootcamp** de ***Guillermo Rodas***.
-
-## Luis Eduardo Dávila Hernández.
+# Luis Eduardo Dávila Hernández.
 - 📧 smluisedavila@gmail.com
 - ☎ 3127428625
 
 Ingeniero de sistemas enfocado en el desarrollo de software. Me considero una persona responsable,  con facilidad de adaptación, capacidad de trabajar en equipo, con iniciativa para resolver problemas eficientemente y lograr las metas y los  planteados.
+
+## Educación.
+- 2012 - **Bachiller Academico** / *Institución Educativa San Mateo*.
+- 2020 - **Ingeniero de Sistemas** / *Corporación Universitaria Rafael Núñez*.
+
  
- ### Comandos Terminal.
+ ## Comandos Terminal.
 
 | Comandos | Definición |
 |----------|----------|
@@ -19,7 +23,7 @@ Ingeniero de sistemas enfocado en el desarrollo de software. Me considero una pe
 | -dir  | Muestra todas las carpetas y archivos dentro del directorio actual.  | 
 
 
-### Comandos ALias.
+## Comandos ALias.
 
 | Comandos Alias | Definición |
 |----------------|------------|
